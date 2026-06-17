@@ -1,16 +1,28 @@
-## Hi there 👋
+# Khalid Gurashi — خالد قرشي
 
-<!--
-**NullUmbra/NullUmbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate with a focus on mobile development, 
+data science, and systems architecture.
+I build with Flutter, Python, and Django — 
+and I care deeply about doing it right.
 
-Here are some ideas to get you started:
+## 🔧 What I Work With
+- **Mobile:** Flutter / Dart
+- **Backend:** Django, Python, PostgreSQL
+- **Data & ML:** Pandas, Scikit-learn, Jupyter
+- **Networks:** CCNA (Levels 1–4), Cisco, Network Administration
+- **Cloud & DevOps:** Google Cloud Platform, Docker
+- **Design:** Figma, Canva
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Project
+**[Aweytak (أويتك)](https://github.com/NullUmbra/Aweytak)** 
+— Offline bilingual first-aid app for low-connectivity environments. 
+Built with Flutter.
+
+## 🌱 Currently
+- Awaiting graduation (Islamic University in Uganda, Dec 2026)
+- Preparing for opportunities in Saudi Arabia
+- Developing VitalIQ — an AI-assisted medical triage system
+
+## 📫 Reach Me
+- Email: khalidgurashi77@gmail.com
+- LinkedIn: https://www.linkedin.com/in/khalid-gt
