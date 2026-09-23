@@ -1,11 +1,11 @@
 # Khalid Gurashi — خالد قرشي
 
-Computer Science graduate with a focus on mobile development, 
-data science, and systems architecture.
-I build with Flutter, Python, and Django — 
+Computer Scientist with a focus on mobile development, 
+data science, and systems engineering & architecture.
+I'm adaptable with what to use for building — 
 and I care deeply about doing it right.
 
-## 🔧 What I Work With
+## 🔧 What I Worked With
 - **Mobile:** Flutter / Dart
 - **Backend:** Django, Python, PostgreSQL
 - **Data & ML:** Pandas, Scikit-learn, Jupyter
@@ -20,7 +20,7 @@ Built with Flutter.
 
 ## 🌱 Currently
 - Awaiting graduation (Islamic University in Uganda, Dec 2026)
-- Preparing for opportunities in Saudi Arabia
+- Preparing for opportunities
 - Developing VitalIQ — an AI-assisted medical triage system
 
 ## 📫 Reach Me
