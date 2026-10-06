@@ -1,17 +1,8 @@
 # Khalid Gurashi — خالد قرشي
 
-Computer Scientist with a focus on mobile development, 
-data science, and systems engineering & architecture.
+Computer Scientist with a focus systems engineering & architecture.
 I'm adaptable with what to use for building — 
 and I care deeply about doing it right.
-
-## 🔧 What I Worked With
-- **Mobile:** Flutter / Dart
-- **Backend:** Django, Python, PostgreSQL
-- **Data & ML:** Pandas, Scikit-learn, Jupyter
-- **Networks:** CCNA (Levels 1–4), Cisco, Network Administration
-- **Cloud & DevOps:** Google Cloud Platform, Docker
-- **Design:** Figma, Canva
 
 ## 📌 Featured Projects
 
